@@ -1,0 +1,1107 @@
+{
+    "status": 200,
+    "msg": null,
+    "results": {
+        "data": [
+            {
+                "location_id": "15333482",
+                "name": "Pago Restaurant",
+                "latitude": "-6.923141",
+                "longitude": "107.62387",
+                "num_reviews": "751",
+                "timezone": "Asia/Jakarta",
+                "location_string": "Bandung, West Java, Java",
+                "photo": {
+                    "images": {
+                        "small": {
+                            "width": "150",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/7a/f4/02/pago-balcony.jpg",
+                            "height": "150"
+                        },
+                        "thumbnail": {
+                            "width": "50",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/7a/f4/02/pago-balcony.jpg",
+                            "height": "50"
+                        },
+                        "original": {
+                            "width": "750",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+                            "height": "500"
+                        },
+                        "large": {
+                            "width": "750",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/7a/f4/02/pago-balcony.jpg",
+                            "height": "500"
+                        },
+                        "medium": {
+                            "width": "550",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/7a/f4/02/pago-balcony.jpg",
+                            "height": "367"
+                        }
+                    },
+                    "is_blessed": true,
+                    "uploaded_date": "2018-11-23T05:50:14-0500",
+                    "caption": "Pago Balcony",
+                    "id": "360379394",
+                    "helpful_votes": "4",
+                    "published_date": "2018-11-23T05:50:14-0500",
+                    "user": {
+                        "user_id": null,
+                        "member_id": "0",
+                        "type": "user"
+                    }
+                },
+                "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/15333482",
+                "awards": [
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2020",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2020"
+                    }
+                ],
+                "doubleclick_zone": "as.indonesia.java.bandung",
+                "preferred_map_engine": "default",
+                "raw_ranking": "4.916259765625",
+                "ranking_geo": "Bandung",
+                "ranking_geo_id": "297704",
+                "ranking_position": "1",
+                "ranking_denominator": "1925",
+                "ranking_category": "restaurant",
+                "ranking": "#1 of 2,170 Restaurants in Bandung",
+                "distance": null,
+                "distance_string": null,
+                "bearing": null,
+                "rating": "5.0",
+                "is_closed": false,
+                "open_now_text": "Open Now",
+                "is_long_closed": false,
+                "price_level": "$$ - $$$",
+                "price": "$65,000 - $250,000",
+                "description": "Pago Restaurant is a new dining experience concept serving authentic Indonesian, Asian and Western specialties. Open for breakfast, lunch, and dinner, this restaurant offers extensive buffet and a la carte options.",
+                "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d15333482-Reviews-Pago_Restaurant-Bandung_West_Java_Java.html",
+                "write_review": "https://www.tripadvisor.com/UserReview-g297704-d15333482-Pago_Restaurant-Bandung_West_Java_Java.html",
+                "ancestors": [
+                    {
+                        "subcategory": [{ "key": "city", "name": "City" }],
+                        "name": "Bandung",
+                        "abbrv": null,
+                        "location_id": "297704"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "province", "name": "Province" }
+                        ],
+                        "name": "West Java",
+                        "abbrv": null,
+                        "location_id": "2301792"
+                    },
+                    {
+                        "subcategory": [{ "key": "region", "name": "Region" }],
+                        "name": "Java",
+                        "abbrv": null,
+                        "location_id": "294228"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "country", "name": "Country" }
+                        ],
+                        "name": "Indonesia",
+                        "abbrv": null,
+                        "location_id": "294225"
+                    }
+                ],
+                "category": { "key": "restaurant", "name": "Restaurant" },
+                "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+                "parent_display_name": "Bandung",
+                "is_jfy_enabled": false,
+                "nearest_metro_station": [],
+                "phone": "+62 22 7310799",
+                "website": "http://www.thepapandayan.com/dining/pago",
+                "email": "info@thepapandayan.com",
+                "address_obj": {
+                    "street1": "Jl. Gatot Subroto No.83",
+                    "street2": "The Papandayan Hotel",
+                    "city": "Bandung",
+                    "state": null,
+                    "country": "Indonesia",
+                    "postalcode": "40262"
+                },
+                "address": "Jl. Gatot Subroto No.83 The Papandayan Hotel, Bandung 40262 Indonesia",
+                "hours": {
+                    "week_ranges": [
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }],
+                        [{ "open_time": 360, "close_time": 1380 }]
+                    ],
+                    "timezone": "Asia/Jakarta"
+                },
+                "is_candidate_for_contact_info_suppression": false,
+                "cuisine": [
+                    { "key": "9908", "name": "American" },
+                    { "key": "10659", "name": "Asian" },
+                    { "key": "10690", "name": "Indonesian" },
+                    { "key": "10651", "name": "Barbecue" },
+                    { "key": "10665", "name": "Vegetarian Friendly" },
+                    { "key": "10697", "name": "Vegan Options" },
+                    { "key": "10751", "name": "Halal" },
+                    { "key": "10992", "name": "Gluten Free Options" }
+                ],
+                "dietary_restrictions": [
+                    { "key": "10665", "name": "Vegetarian Friendly" },
+                    { "key": "10697", "name": "Vegan Options" },
+                    { "key": "10751", "name": "Halal" },
+                    { "key": "10992", "name": "Gluten Free Options" }
+                ],
+                "establishment_types": [
+                    { "key": "10591", "name": "Restaurants" }
+                ]
+            },
+            {
+                "location_id": "23486416",
+                "name": "Justus Steak House Buah Batu",
+                "latitude": "-6.938793",
+                "longitude": "107.624825",
+                "num_reviews": "141",
+                "timezone": "Asia/Jakarta",
+                "location_string": "Bandung, West Java, Java",
+                "photo": {
+                    "images": {
+                        "small": {
+                            "width": "150",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/52/13/71/justus-steakhouse-buah.jpg",
+                            "height": "150"
+                        },
+                        "thumbnail": {
+                            "width": "50",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/52/13/71/justus-steakhouse-buah.jpg",
+                            "height": "50"
+                        },
+                        "original": {
+                            "width": "800",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/52/13/71/justus-steakhouse-buah.jpg",
+                            "height": "600"
+                        },
+                        "large": {
+                            "width": "550",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/52/13/71/justus-steakhouse-buah.jpg",
+                            "height": "413"
+                        },
+                        "medium": {
+                            "width": "250",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/52/13/71/justus-steakhouse-buah.jpg",
+                            "height": "188"
+                        }
+                    },
+                    "is_blessed": true,
+                    "uploaded_date": "2021-11-02T00:58:18-0400",
+                    "caption": "Justus Steakhouse Buah Batu",
+                    "id": "559027057",
+                    "helpful_votes": "0",
+                    "published_date": "2021-11-02T00:58:18-0400",
+                    "user": {
+                        "user_id": null,
+                        "member_id": "0",
+                        "type": "user"
+                    }
+                },
+                "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/23486416",
+                "awards": [],
+                "doubleclick_zone": "as.indonesia.java.bandung",
+                "preferred_map_engine": "default",
+                "raw_ranking": "4.911194801330566",
+                "ranking_geo": "Bandung",
+                "ranking_geo_id": "297704",
+                "ranking_position": "2",
+                "ranking_denominator": "1925",
+                "ranking_category": "restaurant",
+                "ranking": "#2 of 2,170 Restaurants in Bandung",
+                "distance": null,
+                "distance_string": null,
+                "bearing": null,
+                "rating": "5.0",
+                "is_closed": false,
+                "open_now_text": "Open Now",
+                "is_long_closed": false,
+                "price_level": "$$ - $$$",
+                "description": "",
+                "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d23486416-Reviews-Justus_Steak_House_Buah_Batu-Bandung_West_Java_Java.html",
+                "write_review": "https://www.tripadvisor.com/UserReview-g297704-d23486416-Justus_Steak_House_Buah_Batu-Bandung_West_Java_Java.html",
+                "ancestors": [
+                    {
+                        "subcategory": [{ "key": "city", "name": "City" }],
+                        "name": "Bandung",
+                        "abbrv": null,
+                        "location_id": "297704"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "province", "name": "Province" }
+                        ],
+                        "name": "West Java",
+                        "abbrv": null,
+                        "location_id": "2301792"
+                    },
+                    {
+                        "subcategory": [{ "key": "region", "name": "Region" }],
+                        "name": "Java",
+                        "abbrv": null,
+                        "location_id": "294228"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "country", "name": "Country" }
+                        ],
+                        "name": "Indonesia",
+                        "abbrv": null,
+                        "location_id": "294225"
+                    }
+                ],
+                "category": { "key": "restaurant", "name": "Restaurant" },
+                "subcategory": [],
+                "parent_display_name": "Bandung",
+                "is_jfy_enabled": false,
+                "nearest_metro_station": [],
+                "phone": "+62 811-2180-880",
+                "website": "http://justusku.co.id/",
+                "address_obj": {
+                    "street1": "Jl. Buah Batu No.157 C, Rt.007/rw.006",
+                    "street2": null,
+                    "city": "Bandung",
+                    "state": null,
+                    "country": "Indonesia",
+                    "postalcode": "40264"
+                },
+                "address": "Jl. Buah Batu No.157 C, Rt.007/rw.006, Bandung 40264 Indonesia",
+                "hours": {
+                    "week_ranges": [
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }],
+                        [{ "open_time": 660, "close_time": 1260 }]
+                    ],
+                    "timezone": "Asia/Jakarta"
+                },
+                "is_candidate_for_contact_info_suppression": false,
+                "cuisine": [
+                    { "key": "9908", "name": "American" },
+                    { "key": "10659", "name": "Asian" }
+                ],
+                "dietary_restrictions": [],
+                "establishment_types": [
+                    { "key": "10591", "name": "Restaurants" }
+                ]
+            },
+            {
+                "location_id": "23486451",
+                "name": "Justus Steak House Metro Indah Mall",
+                "latitude": "-6.94178",
+                "longitude": "107.65821",
+                "num_reviews": "134",
+                "timezone": "Asia/Jakarta",
+                "location_string": "Bandung, West Java, Java",
+                "photo": {
+                    "images": {
+                        "small": {
+                            "width": "150",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/52/16/5c/justus-steakhouse-metro.jpg",
+                            "height": "150"
+                        },
+                        "thumbnail": {
+                            "width": "50",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/52/16/5c/justus-steakhouse-metro.jpg",
+                            "height": "50"
+                        },
+                        "original": {
+                            "width": "1280",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/52/16/5c/justus-steakhouse-metro.jpg",
+                            "height": "1109"
+                        },
+                        "large": {
+                            "width": "519",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/52/16/5c/justus-steakhouse-metro.jpg",
+                            "height": "450"
+                        },
+                        "medium": {
+                            "width": "237",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/52/16/5c/justus-steakhouse-metro.jpg",
+                            "height": "205"
+                        }
+                    },
+                    "is_blessed": true,
+                    "uploaded_date": "2021-11-02T01:27:03-0400",
+                    "caption": "Justus Steakhouse Metro Indah Mall",
+                    "id": "559027804",
+                    "helpful_votes": "0",
+                    "published_date": "2021-11-02T01:27:03-0400",
+                    "user": {
+                        "user_id": null,
+                        "member_id": "0",
+                        "type": "user"
+                    }
+                },
+                "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/23486451",
+                "awards": [],
+                "doubleclick_zone": "as.indonesia.java.bandung",
+                "preferred_map_engine": "default",
+                "raw_ranking": "4.895737648010254",
+                "ranking_geo": "Bandung",
+                "ranking_geo_id": "297704",
+                "ranking_position": "3",
+                "ranking_denominator": "1925",
+                "ranking_category": "restaurant",
+                "ranking": "#3 of 2,170 Restaurants in Bandung",
+                "distance": null,
+                "distance_string": null,
+                "bearing": null,
+                "rating": "5.0",
+                "is_closed": false,
+                "open_now_text": "Open Now",
+                "is_long_closed": false,
+                "price_level": "",
+                "description": "",
+                "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d23486451-Reviews-Justus_Steak_House_Metro_Indah_Mall-Bandung_West_Java_Java.html",
+                "write_review": "https://www.tripadvisor.com/UserReview-g297704-d23486451-Justus_Steak_House_Metro_Indah_Mall-Bandung_West_Java_Java.html",
+                "ancestors": [
+                    {
+                        "subcategory": [{ "key": "city", "name": "City" }],
+                        "name": "Bandung",
+                        "abbrv": null,
+                        "location_id": "297704"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "province", "name": "Province" }
+                        ],
+                        "name": "West Java",
+                        "abbrv": null,
+                        "location_id": "2301792"
+                    },
+                    {
+                        "subcategory": [{ "key": "region", "name": "Region" }],
+                        "name": "Java",
+                        "abbrv": null,
+                        "location_id": "294228"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "country", "name": "Country" }
+                        ],
+                        "name": "Indonesia",
+                        "abbrv": null,
+                        "location_id": "294225"
+                    }
+                ],
+                "category": { "key": "restaurant", "name": "Restaurant" },
+                "subcategory": [],
+                "parent_display_name": "Bandung",
+                "is_jfy_enabled": false,
+                "nearest_metro_station": [],
+                "phone": "+62 811-2180-880",
+                "website": "http://justusku.co.id",
+                "address_obj": {
+                    "street1": "Jl. Soekarno-hatta Jl. Mtc Barat No.59040286",
+                    "street2": null,
+                    "city": "Bandung",
+                    "state": null,
+                    "country": "Indonesia",
+                    "postalcode": "40286"
+                },
+                "address": "Jl. Soekarno-hatta Jl. Mtc Barat No.59040286, Bandung 40286 Indonesia",
+                "hours": {
+                    "week_ranges": [
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }],
+                        [{ "open_time": 660, "close_time": 1200 }]
+                    ],
+                    "timezone": "Asia/Jakarta"
+                },
+                "is_candidate_for_contact_info_suppression": false,
+                "cuisine": [
+                    { "key": "9908", "name": "American" },
+                    { "key": "10659", "name": "Asian" },
+                    { "key": "10345", "name": "Steakhouse" },
+                    { "key": "10646", "name": "Fast Food" }
+                ],
+                "dietary_restrictions": [],
+                "establishment_types": [
+                    { "key": "10591", "name": "Restaurants" }
+                ]
+            },
+            {
+                "location_id": "2368427",
+                "name": "Hummingbird Eatery",
+                "latitude": "-6.904715",
+                "longitude": "107.6183",
+                "num_reviews": "3611",
+                "timezone": "Asia/Jakarta",
+                "location_string": "Bandung, West Java, Java",
+                "photo": {
+                    "images": {
+                        "small": {
+                            "width": "150",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/1a/83/ae/hummingbird-eatery-bandung.jpg",
+                            "height": "150"
+                        },
+                        "thumbnail": {
+                            "width": "50",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/1a/83/ae/hummingbird-eatery-bandung.jpg",
+                            "height": "50"
+                        },
+                        "original": {
+                            "width": "2000",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/1a/83/ae/hummingbird-eatery-bandung.jpg",
+                            "height": "1441"
+                        },
+                        "large": {
+                            "width": "1024",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/1a/83/ae/hummingbird-eatery-bandung.jpg",
+                            "height": "738"
+                        },
+                        "medium": {
+                            "width": "550",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/1a/83/ae/hummingbird-eatery-bandung.jpg",
+                            "height": "396"
+                        }
+                    },
+                    "is_blessed": true,
+                    "uploaded_date": "2018-05-29T06:52:29-0400",
+                    "caption": "Hummingbird Eatery Bandung",
+                    "id": "320504750",
+                    "helpful_votes": "7",
+                    "published_date": "2018-05-29T06:52:29-0400",
+                    "user": {
+                        "user_id": null,
+                        "member_id": "0",
+                        "type": "user"
+                    }
+                },
+                "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/2368427",
+                "awards": [
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2021",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2021"
+                    },
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2020",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2020"
+                    },
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2019",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2019"
+                    },
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2018",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2018"
+                    },
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2017",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2017"
+                    },
+                    {
+                        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                        "year": "2013",
+                        "images": {
+                            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+                        },
+                        "categories": [],
+                        "display_name": "Certificate of Excellence 2013"
+                    }
+                ],
+                "doubleclick_zone": "as.indonesia.java.bandung",
+                "preferred_map_engine": "default",
+                "raw_ranking": "4.8767218589782715",
+                "ranking_geo": "Bandung",
+                "ranking_geo_id": "297704",
+                "ranking_position": "4",
+                "ranking_denominator": "1925",
+                "ranking_category": "restaurant",
+                "ranking": "#4 of 2,170 Restaurants in Bandung",
+                "distance": null,
+                "distance_string": null,
+                "bearing": null,
+                "rating": "4.5",
+                "is_closed": false,
+                "open_now_text": "Open Now",
+                "is_long_closed": false,
+                "price_level": "$$ - $$$",
+                "price": "$8 - $20",
+                "description": "We offer you luxurious tasting food and beverages. Celebrate special and cozy moments with us and enjoy the outstanding interior of our restaurant.",
+                "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d2368427-Reviews-Hummingbird_Eatery-Bandung_West_Java_Java.html",
+                "write_review": "https://www.tripadvisor.com/UserReview-g297704-d2368427-Hummingbird_Eatery-Bandung_West_Java_Java.html",
+                "ancestors": [
+                    {
+                        "subcategory": [{ "key": "city", "name": "City" }],
+                        "name": "Bandung",
+                        "abbrv": null,
+                        "location_id": "297704"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "province", "name": "Province" }
+                        ],
+                        "name": "West Java",
+                        "abbrv": null,
+                        "location_id": "2301792"
+                    },
+                    {
+                        "subcategory": [{ "key": "region", "name": "Region" }],
+                        "name": "Java",
+                        "abbrv": null,
+                        "location_id": "294228"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "country", "name": "Country" }
+                        ],
+                        "name": "Indonesia",
+                        "abbrv": null,
+                        "location_id": "294225"
+                    }
+                ],
+                "category": { "key": "restaurant", "name": "Restaurant" },
+                "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+                "parent_display_name": "Bandung",
+                "is_jfy_enabled": false,
+                "nearest_metro_station": [],
+                "phone": "+62 22 4212582",
+                "website": "http://www.hummingbird-eatery.com",
+                "email": "hummingbird_eatery@yahoo.com",
+                "address_obj": {
+                    "street1": "Jl. Progo 14",
+                    "street2": null,
+                    "city": "Bandung",
+                    "state": null,
+                    "country": "Indonesia",
+                    "postalcode": "40115"
+                },
+                "address": "Jl. Progo 14, Bandung 40115 Indonesia",
+                "hours": {
+                    "week_ranges": [
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }],
+                        [{ "open_time": 420, "close_time": 1320 }]
+                    ],
+                    "timezone": "Asia/Jakarta"
+                },
+                "is_candidate_for_contact_info_suppression": false,
+                "cuisine": [
+                    { "key": "10654", "name": "European" },
+                    { "key": "10690", "name": "Indonesian" },
+                    { "key": "10665", "name": "Vegetarian Friendly" },
+                    { "key": "10697", "name": "Vegan Options" },
+                    { "key": "10751", "name": "Halal" },
+                    { "key": "10992", "name": "Gluten Free Options" }
+                ],
+                "dietary_restrictions": [
+                    { "key": "10665", "name": "Vegetarian Friendly" },
+                    { "key": "10697", "name": "Vegan Options" },
+                    { "key": "10751", "name": "Halal" },
+                    { "key": "10992", "name": "Gluten Free Options" }
+                ],
+                "establishment_types": [
+                    { "key": "10591", "name": "Restaurants" }
+                ]
+            },
+            {
+                "location_id": "15699453",
+                "name": "Justus Steak House Dago",
+                "latitude": "-6.90126",
+                "longitude": "107.611855",
+                "num_reviews": "169",
+                "timezone": "Asia/Jakarta",
+                "location_string": "Bandung, West Java, Java",
+                "photo": {
+                    "images": {
+                        "small": {
+                            "width": "150",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/52/14/53/justus-steakhouse-dago.jpg",
+                            "height": "150"
+                        },
+                        "thumbnail": {
+                            "width": "50",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/52/14/53/justus-steakhouse-dago.jpg",
+                            "height": "50"
+                        },
+                        "original": {
+                            "width": "1280",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/52/14/53/justus-steakhouse-dago.jpg",
+                            "height": "855"
+                        },
+                        "large": {
+                            "width": "1024",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-w/21/52/14/53/justus-steakhouse-dago.jpg",
+                            "height": "684"
+                        },
+                        "medium": {
+                            "width": "550",
+                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/52/14/53/justus-steakhouse-dago.jpg",
+                            "height": "367"
+                        }
+                    },
+                    "is_blessed": true,
+                    "uploaded_date": "2021-11-02T01:06:07-0400",
+                    "caption": "Justus Steakhouse Dago",
+                    "id": "559027283",
+                    "helpful_votes": "0",
+                    "published_date": "2021-11-02T01:06:07-0400",
+                    "user": {
+                        "user_id": null,
+                        "member_id": "0",
+                        "type": "user"
+                    }
+                },
+                "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/15699453",
+                "awards": [],
+                "doubleclick_zone": "as.indonesia.java.bandung",
+                "preferred_map_engine": "default",
+                "raw_ranking": "4.838249206542969",
+                "ranking_geo": "Bandung",
+                "ranking_geo_id": "297704",
+                "ranking_position": "5",
+                "ranking_denominator": "1925",
+                "ranking_category": "restaurant",
+                "ranking": "#5 of 2,170 Restaurants in Bandung",
+                "distance": null,
+                "distance_string": null,
+                "bearing": null,
+                "rating": "5.0",
+                "is_closed": false,
+                "open_now_text": "Open Now",
+                "is_long_closed": false,
+                "price_level": "$$ - $$$",
+                "description": "",
+                "web_url": "https://www.tripadvisor.com/Restaurant_Review-g297704-d15699453-Reviews-Justus_Steak_House_Dago-Bandung_West_Java_Java.html",
+                "write_review": "https://www.tripadvisor.com/UserReview-g297704-d15699453-Justus_Steak_House_Dago-Bandung_West_Java_Java.html",
+                "ancestors": [
+                    {
+                        "subcategory": [{ "key": "city", "name": "City" }],
+                        "name": "Bandung",
+                        "abbrv": null,
+                        "location_id": "297704"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "province", "name": "Province" }
+                        ],
+                        "name": "West Java",
+                        "abbrv": null,
+                        "location_id": "2301792"
+                    },
+                    {
+                        "subcategory": [{ "key": "region", "name": "Region" }],
+                        "name": "Java",
+                        "abbrv": null,
+                        "location_id": "294228"
+                    },
+                    {
+                        "subcategory": [
+                            { "key": "country", "name": "Country" }
+                        ],
+                        "name": "Indonesia",
+                        "abbrv": null,
+                        "location_id": "294225"
+                    }
+                ],
+                "category": { "key": "restaurant", "name": "Restaurant" },
+                "subcategory": [],
+                "parent_display_name": "Bandung",
+                "is_jfy_enabled": false,
+                "nearest_metro_station": [],
+                "phone": "+62 811-2180-880",
+                "website": "http://www.justusku.co.id",
+                "email": "justussteakhouse@gmail.com",
+                "address_obj": {
+                    "street1": "Jl. Ir. H. Juanda No. 59",
+                    "street2": "Tamansari, Bandung Wetan",
+                    "city": "Bandung",
+                    "state": null,
+                    "country": "Indonesia",
+                    "postalcode": "40116"
+                },
+                "address": "Jl. Ir. H. Juanda No. 59 Tamansari, Bandung Wetan, Bandung 40116 Indonesia",
+                "hours": {
+                    "week_ranges": [
+                        [{ "open_time": 600, "close_time": 1320 }],
+                        [{ "open_time": 660, "close_time": 1320 }],
+                        [{ "open_time": 660, "close_time": 1320 }],
+                        [{ "open_time": 600, "close_time": 1320 }],
+                        [{ "open_time": 600, "close_time": 1320 }],
+                        [{ "open_time": 600, "close_time": 1320 }],
+                        [{ "open_time": 600, "close_time": 1320 }]
+                    ],
+                    "timezone": "Asia/Jakarta"
+                },
+                "is_candidate_for_contact_info_suppression": false,
+                "cuisine": [
+                    { "key": "4617", "name": "Italian" },
+                    { "key": "10345", "name": "Steakhouse" },
+                    { "key": "10642", "name": "Cafe" },
+                    { "key": "10654", "name": "European" },
+                    { "key": "10690", "name": "Indonesian" }
+                ],
+                "dietary_restrictions": [],
+                "establishment_types": [
+                    { "key": "10591", "name": "Restaurants" }
+                ]
+            }
+        ],
+        "paging": {
+            "previous": null,
+            "next": "https://api.tripadvisor.com/api/internal/1.14/location/297704/restaurants?base_geocodes_on=citymaps&currency=USD&is_restaurant_filters_v2=true&lang=en_US&limit=5&offset=5&restaurant_tagcategory_standalone=297704&supports_relevance=true",
+            "skipped": "0",
+            "results": "5",
+            "total_results": "2446"
+        },
+        "restaurant_availability_options": {
+            "day": "23",
+            "month": "4",
+            "year": "2022",
+            "hour": "19",
+            "minute": "0",
+            "people": "2",
+            "datestring": "04/23/2022",
+            "is_default": true,
+            "is_set": false,
+            "racable": false,
+            "time_options": {
+                "selected_option": {
+                    "value": "19:00:00",
+                    "display": "7:00 PM",
+                    "selected": true
+                },
+                "options": [
+                    {
+                        "value": "00:00:00",
+                        "display": "12:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "00:30:00",
+                        "display": "12:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "01:00:00",
+                        "display": "1:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "01:30:00",
+                        "display": "1:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "02:00:00",
+                        "display": "2:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "02:30:00",
+                        "display": "2:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "03:00:00",
+                        "display": "3:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "03:30:00",
+                        "display": "3:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "04:00:00",
+                        "display": "4:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "04:30:00",
+                        "display": "4:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "05:00:00",
+                        "display": "5:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "05:30:00",
+                        "display": "5:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "06:00:00",
+                        "display": "6:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "06:30:00",
+                        "display": "6:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "07:00:00",
+                        "display": "7:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "07:30:00",
+                        "display": "7:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "08:00:00",
+                        "display": "8:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "08:30:00",
+                        "display": "8:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "09:00:00",
+                        "display": "9:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "09:30:00",
+                        "display": "9:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "10:00:00",
+                        "display": "10:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "10:30:00",
+                        "display": "10:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "11:00:00",
+                        "display": "11:00 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "11:30:00",
+                        "display": "11:30 AM",
+                        "selected": null
+                    },
+                    {
+                        "value": "12:00:00",
+                        "display": "12:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "12:30:00",
+                        "display": "12:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "13:00:00",
+                        "display": "1:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "13:30:00",
+                        "display": "1:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "14:00:00",
+                        "display": "2:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "14:30:00",
+                        "display": "2:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "15:00:00",
+                        "display": "3:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "15:30:00",
+                        "display": "3:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "16:00:00",
+                        "display": "4:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "16:30:00",
+                        "display": "4:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "17:00:00",
+                        "display": "5:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "17:30:00",
+                        "display": "5:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "18:00:00",
+                        "display": "6:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "18:30:00",
+                        "display": "6:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "19:00:00",
+                        "display": "7:00 PM",
+                        "selected": true
+                    },
+                    {
+                        "value": "19:30:00",
+                        "display": "7:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "20:00:00",
+                        "display": "8:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "20:30:00",
+                        "display": "8:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "21:00:00",
+                        "display": "9:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "21:30:00",
+                        "display": "9:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "22:00:00",
+                        "display": "10:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "22:30:00",
+                        "display": "10:30 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "23:00:00",
+                        "display": "11:00 PM",
+                        "selected": null
+                    },
+                    {
+                        "value": "23:30:00",
+                        "display": "11:30 PM",
+                        "selected": null
+                    }
+                ]
+            },
+            "people_options": {
+                "selected_option": {
+                    "value": "2",
+                    "display": "2",
+                    "selected": true
+                },
+                "options": [
+                    { "value": "1", "display": "1", "selected": null },
+                    { "value": "2", "display": "2", "selected": true },
+                    { "value": "3", "display": "3", "selected": null },
+                    { "value": "4", "display": "4", "selected": null },
+                    { "value": "5", "display": "5", "selected": null },
+                    { "value": "6", "display": "6", "selected": null },
+                    { "value": "7", "display": "7", "selected": null },
+                    { "value": "8", "display": "8", "selected": null },
+                    { "value": "9", "display": "9", "selected": null },
+                    { "value": "10", "display": "10", "selected": null },
+                    { "value": "11", "display": "11", "selected": null },
+                    { "value": "12", "display": "12", "selected": null },
+                    { "value": "13", "display": "13", "selected": null },
+                    { "value": "14", "display": "14", "selected": null },
+                    { "value": "15", "display": "15", "selected": null },
+                    { "value": "16", "display": "16", "selected": null },
+                    { "value": "17", "display": "17", "selected": null },
+                    { "value": "18", "display": "18", "selected": null },
+                    { "value": "19", "display": "19", "selected": null },
+                    { "value": "20", "display": "20", "selected": null }
+                ]
+            }
+        },
+        "open_hours_options": {
+            "closed_count": "86",
+            "is_set": false,
+            "low_coverage_primary_message": "Open hours aren't available for all places.",
+            "timezone": "Asia/Jakarta",
+            "unsure_count": "1643",
+            "open_count": "717",
+            "low_coverage_secondary_message": "Show all restaurants",
+            "current_value": "now"
+        }
+    }
+}

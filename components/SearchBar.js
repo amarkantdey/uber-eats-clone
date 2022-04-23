@@ -8,6 +8,11 @@ export default function SearchBar() {
   return (
     <View style={{marginTop: 15, flexDirection: "row"}}>
       <GooglePlacesAutocomplete 
+        query={{ key: "AIzaSyClENGHIgE4fLChWbMnnS-FXiHrzDMWXyY"}}
+        onPress={(data, detail) => {
+            console.log('Data', data);
+            console.log('Detail', detail);
+        }}
         placeholder='Search'
         styles={{
             textInput: {
@@ -24,6 +29,8 @@ export default function SearchBar() {
                 marginRight: 10,
             },
         }}
+
+        onFail={error => console.error(error)}
 
         renderLeftButton = {() => (
             <View style={{marginLeft: 10 }}>

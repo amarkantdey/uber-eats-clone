@@ -4,8 +4,7 @@ import { SafeAreaView, ScrollView, StatusBar,  StyleSheet, View } from 'react-na
 import SearchBar from './../components/SearchBar';
 import Categories from './../components/Categories';
 import RestaurantItems, { localRestaurants } from '../components/RestaurantItems';
-
-const RAPID_API_KEY = "c7a4bc055dmshd96588c9958f966p1ebb37jsn392bf5e967bf"
+import BottomTabs from '../components/BottomTabs';
 
 export default function Home() {
   const [restaurantData, setRestaurantData] = React.useState(localRestaurants)
@@ -22,29 +21,43 @@ export default function Home() {
       headers: {
         'content-type': 'application/x-www-form-urlencoded',
         'X-RapidAPI-Host': 'worldwide-restaurants.p.rapidapi.com',
-        'X-RapidAPI-Key': 'c7a4bc055dmshd96588c9958f966p1ebb37jsn392bf5e967bf'
+        'X-RapidAPI-Key': '54454b40a5msh7be59b4595029a2p1ee360jsnf332163aebe1'
       },
       body: encodedParams
     };
 
-    fetch('https://worldwide-restaurants.p.rapidapi.com/search', options)
-      .then(response => response.json())
-      .then(response => {
-        let a = response?.results?.data.map((data) => {
-          return {
-            name: data.name,
-            image_url: data.photo?.images?.original?.url,
-            categories: data.category?.name,
-            price: data.price,
-            reviews: data.num_reviews,
-            rating: data.rating
-          }
-        })
+    // fetch('https://worldwide-restaurants.p.rapidapi.com/search', options)
+    //   .then(response => response.json())
+    //   .then(response => {
+    //     let a = response?.results?.data.map((data) => {
+    //       return {
+    //         name: data.name,
+    //         image_url: data.photo?.images?.original?.url,
+    //         categories: data.category?.name,
+    //         price: data.price,
+    //         reviews: data.num_reviews,
+    //         rating: data.rating
+    //       }
+    //     })
 
-        console.log('data',a)
-        setRestaurantData(a)
-      })
-      .catch(err => console.error(err));
+    //     console.log('data',a)
+    //     setRestaurantData(a)
+    //   })
+    //   .catch(err => console.error(err));
+    let data = require('../assets/data/restaurantApiData.json')
+    let formattedData = data?.results?.data.map((data) => {
+      return {
+        name: data.name,
+        image_url: data.photo?.images?.original?.url,
+        categories: data.category?.name,
+        price: data.price,
+        reviews: data.num_reviews,
+        rating: data.rating
+      }
+    })
+
+    //console.log(formattedData)
+    setRestaurantData(formattedData)
   }
 
   useEffect(() => {
@@ -61,6 +74,7 @@ export default function Home() {
         <Categories />
         <RestaurantItems restaurantData={restaurantData} />
       </ScrollView>
+      <BottomTabs />
     </SafeAreaView>
   )
 }
